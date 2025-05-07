@@ -46,7 +46,7 @@ below is log message :
 ![image](https://github.com/released/Sample_Project_RH850_S1_Input_Capture/blob/main/log_capt.jpg)
 
 
-![image](https://github.com/released/Sample_Project_RH850_S1_Input_Capture/blob/main/log_cap2.jpg)
+![image](https://github.com/released/Sample_Project_RH850_S1_Input_Capture/blob/main/log_capt2.jpg)
 
 
 5. below is capture pin , smart config setting
